@@ -6,7 +6,8 @@
 		
 		$.extend(self, {
 			jordanImages : [
-
+				'https://raw.githubusercontent.com/suuuzi/jordanExtension/master/img/images.jpg',
+				'https://raw.githubusercontent.com/suuuzi/jordanExtension/master/img/images.png'
 			],
 			handleImages : function (lstImgs, time)
 			{
