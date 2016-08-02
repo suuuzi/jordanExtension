@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Jordan Extension",
+  "version": "0.1",
+  "content_scripts": [
+	    {
+	      "matches": ["*://*/*"],
+	      "js": ["jquery.min.js", "jordan.js"]
+	    }
+  	]
+}
