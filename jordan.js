@@ -13,7 +13,13 @@
 				'https://raw.githubusercontent.com/suuuzi/jordanExtension/master/img/IMG-20150923-WA0019%20%5B232103%5D.jpg',
 				'https://raw.githubusercontent.com/suuuzi/jordanExtension/master/img/IMG-20160324-WA0002%20%5B232104%5D.jpg',
 				'https://raw.githubusercontent.com/suuuzi/jordanExtension/master/img/IMG_20160629_132718%20%5B232097%5D.jpg',
-				'https://raw.githubusercontent.com/suuuzi/jordanExtension/master/img/IMG_20160719_122535%20%5B232098%5D.jpg'
+				'https://raw.githubusercontent.com/suuuzi/jordanExtension/master/img/IMG-20160802-WA0003.jpg',
+				'https://raw.githubusercontent.com/suuuzi/jordanExtension/master/img/IMG-20160802-WA0004.jpg',
+				'https://raw.githubusercontent.com/suuuzi/jordanExtension/master/img/IMG-20160802-WA0005.jpg',
+				'https://raw.githubusercontent.com/suuuzi/jordanExtension/master/img/IMG-20160802-WA0006.jpg',
+				'https://raw.githubusercontent.com/suuuzi/jordanExtension/master/img/IMG-20160802-WA0007.jpg',
+				'https://raw.githubusercontent.com/suuuzi/jordanExtension/master/img/IMG-20160802-WA0008.jpg',
+				'https://raw.githubusercontent.com/suuuzi/jordanExtension/master/img/IMG-20160802-WA0009.jpg'
 			],
 			handleImages : function (lstImgs, time)
 			{
